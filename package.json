@@ -1,7 +1,7 @@
 {
   "name": "docooment",
   "description": "A Mongoose like Azure DocuomentDB ORM.",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "main": "index.js",
   "dependencies": {
     "async": "^0.9.0",
@@ -49,7 +49,7 @@
   },
   "homepage": "https://github.com/TimPapler/docooment.git",
   "gitHead": "9108c4f59b058ede1b07591e925d1bed76e2f5c9",
-  "_id": "docooment@0.5.4",
+  "_id": "docooment@0.5.5",
   "scripts": {},
   "_shasum": "9f21535543f4e751548c61dae0c271b6ec75a74f",
   "_from": "docooment@*",
