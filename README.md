@@ -1,9 +1,11 @@
 Docooment
 =========
 
-A [Mongoose](https://github.com/LearnBoost/mongoose) like [Azure DocuomentDB](http://azure.microsoft.com/it-it/services/documentdb/) ORM based on [Microsoft Azure DocumentDB Node.js SDK](https://github.com/Azure/azure-documentdb-node).
+This is a fork from [gian788/docooment](https://github.com/gian788/docooment.git). It is based on [mongoose](https://github.com/LearnBoost/mongoose.git).
 
-[![Build Status](https://travis-ci.org/gian788/docooment.png?branch=master)](https://travis-ci.org/LearnBoost/mongoose)
+----
+
+A [Mongoose](https://github.com/LearnBoost/mongoose) like [Azure DocuomentDB](http://azure.microsoft.com/it-it/services/documentdb/) ORM based on [Microsoft Azure DocumentDB Node.js SDK](https://github.com/Azure/azure-documentdb-node).
 
 ## Plugins
 
