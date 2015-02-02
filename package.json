@@ -49,19 +49,18 @@
   },
   "homepage": "https://github.com/TimPapler/docooment.git",
   "gitHead": "9108c4f59b058ede1b07591e925d1bed76e2f5c9",
-  "_id": "docooment@0.5.5",
+  "_id": "docooment@0.5.6",
   "scripts": {},
-  "_shasum": "9f21535543f4e751548c61dae0c271b6ec75a74f",
-  "_from": "docooment@*",
+  "_shasum": "22ee76cec07d8deebd28e663cd81a38e53fedd8e",
+  "_from": "../../../../var/folders/3z/8n5jx1fj10sgg3zflmls4rl80000gn/T/npm-48925-a73665aa/git-cache-1d35e177643e/aef345780a1e809426ad3889d762ed87fbf5186a",
   "_npmVersion": "1.4.28",
-  
   "maintainers": [
     {
       "name": "TimPapler",
       "email": "tim@otro.me"
     }
   ],
-
   "directories": {},
-  "readme": "ERROR: No README data found!"
+  "readme": "ERROR: No README data found!",
+  "_resolved": "git://github.com/TimPapler/docooment.git#aef345780a1e809426ad3889d762ed87fbf5186a"
 }
