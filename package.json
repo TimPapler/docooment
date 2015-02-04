@@ -1,11 +1,10 @@
 {
   "name": "docooment",
   "description": "A Mongoose like Azure DocuomentDB ORM.",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "main": "index.js",
   "dependencies": {
     "async": "^0.9.0",
-    "bson": "^0.2.16",
     "documentdb": "^0.9.1",
     "hooks": "^0.3.2",
     "sliced": "0.0.5",
